@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://gg-setup.zappy5.app
 מחפשים ציוד לאירוע מושלם? GG.SETUP מציעה השכרת ציוד לאירועים בסטנדרט הגבוה ביותר — ריהוט, תאורה, סאונד ועוד. הפכו כל חגיגה לחוויה בלתי נשכחת!
 
 ### שירותים
-https://example.com/services
+https://gg-setup.zappy5.app/services
 גלו את מגוון שירותי ההשכרה של GG.SETUP: ציוד לאירועים עסקיים, מסיבות, חתונות ואירועי משפחה. פתרונות מקצועיים במחירים שמתאימים לכל תקציב — הכל במקום אחד!
 
 ### אודות
-https://example.com/about
+https://gg-setup.zappy5.app/about
 GG.SETUP נולדה מתוך אהבה לאירועים ותשוקה לפרטים הקטנים. הכירו את הצוות שהפך השכרת ציוד למסיבות במרכז לחוויה פשוטה, אמינה ומלאת השראה עבור כל לקוח.
 
 ### צור קשר
-https://example.com/contact
+https://gg-setup.zappy5.app/contact
 רוצים לקבל הצעת מחיר להשכרת ציוד לחתונה, מסיבה או אירוע עסקי? צרו קשר עם צוות GG.SETUP עכשיו ונחזור אליכם במהירות עם פתרון מותאם אישית בדיוק לצרכים שלכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://gg-setup.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://gg-setup.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://gg-setup.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -46,8 +46,8 @@ Information about WCAG compliance and accessibility features.
 - Address: 13 הגפן, פרי גן, 854900, ישראל
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://gg-setup.zappy5.app/contact
+- Endpoint: https://gg-setup.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -76,6 +76,6 @@ A party and event equipment rental business that provides gear and supplies for 
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://gg-setup.zappy5.app/sitemap.xml
+- Robots: https://gg-setup.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://gg-setup.zappy5.app/llms-full.txt
