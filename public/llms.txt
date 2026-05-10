@@ -1,0 +1,78 @@
+# GG.SETUP — Generative Engine Optimization Map
+
+> A party and event equipment rental business that provides gear and supplies for celebrations and events. The brand likely serves individuals, families, and event planners looking to rent items such as furniture, lighting, sound systems, decorations, or inflatable attractions for various occasions.
+
+---
+
+## Pages
+
+### בית
+https://gg-setup-4afbe36d.zappy5.app
+מחפשים ציוד לאירוע מושלם? GG.SETUP מציעה השכרת ציוד לאירועים בסטנדרט הגבוה ביותר — ריהוט, תאורה, סאונד ועוד. הפכו כל חגיגה לחוויה בלתי נשכחת!
+
+### שירותים
+https://gg-setup-4afbe36d.zappy5.app/services
+גלו את מגוון שירותי ההשכרה של GG.SETUP: ציוד לאירועים עסקיים, מסיבות, חתונות ואירועי משפחה. פתרונות מקצועיים במחירים שמתאימים לכל תקציב — הכל במקום אחד!
+
+### אודות
+https://gg-setup-4afbe36d.zappy5.app/about
+GG.SETUP נולדה מתוך אהבה לאירועים ותשוקה לפרטים הקטנים. הכירו את הצוות שהפך השכרת ציוד למסיבות במרכז לחוויה פשוטה, אמינה ומלאת השראה עבור כל לקוח.
+
+### צור קשר
+https://gg-setup-4afbe36d.zappy5.app/contact
+רוצים לקבל הצעת מחיר להשכרת ציוד לחתונה, מסיבה או אירוע עסקי? צרו קשר עם צוות GG.SETUP עכשיו ונחזור אליכם במהירות עם פתרון מותאם אישית בדיוק לצרכים שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://gg-setup-4afbe36d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://gg-setup-4afbe36d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://gg-setup-4afbe36d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://gg-setup-4afbe36d.zappy5.app/contact
+- Endpoint: https://gg-setup-4afbe36d.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `phone` (tel, required)
+  - `email` (email, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About GG.SETUP
+A party and event equipment rental business that provides gear and supplies for celebrations and events. The brand likely serves individuals, families, and event planners looking to rent items such as furniture, lighting, sound systems, decorations, or inflatable attractions for various occasions.
+
+## Target Audience
+- מתכנני אירועים
+- מנהלי אירועים עסקיים
+- מארגני חתונות
+
+## Industry
+אירועים ובידור
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://gg-setup-4afbe36d.zappy5.app/sitemap.xml
+- Robots: https://gg-setup-4afbe36d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://gg-setup-4afbe36d.zappy5.app/llms-full.txt
