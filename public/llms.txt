@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: Galyalon13@gmail.com
+- Phone: +972547919560
+- Phone (tel): tel:+972547919560
+- Address: 13 הגפן, פרי גן, 854900, ישראל
 
 ### Contact form
 - URL: https://example.com/contact
