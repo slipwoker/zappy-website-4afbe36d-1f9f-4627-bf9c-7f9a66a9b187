@@ -2,13 +2,13 @@
 
 A party and event equipment rental business that provides gear and supplies for celebrations and events. The brand likely serves individuals, families, and event planners looking to rent items such as furniture, lighting, sound systems, decorations, or inflatable attractions for various occasions.
 
-Source: https://gg-setup-4afbe36d.zappy5.app
+Source: https://example.com
 
 ---
 
 ## השכרת ציוד לאירועים — GG.SETUP
 
-URL: https://gg-setup-4afbe36d.zappy5.app
+URL: https://example.com
 Description: מחפשים ציוד לאירוע מושלם? GG.SETUP מציעה השכרת ציוד לאירועים בסטנדרט הגבוה ביותר — ריהוט, תאורה, סאונד ועוד. הפכו כל חגיגה לחוויה בלתי נשכחת!
 
 השכרת ציוד לאירועים — GG.SETUP
@@ -561,7 +561,7 @@ GG.SETUP הפכו את החתונה שלנו לחלום. כל פריט ציוד 
 
 ## כל הציוד שצריך לאירוע אחד מושלם — GG.SETUP
 
-URL: https://gg-setup-4afbe36d.zappy5.app/services
+URL: https://example.com/services
 Description: גלו את מגוון שירותי ההשכרה של GG.SETUP: ציוד לאירועים עסקיים, מסיבות, חתונות ואירועי משפחה. פתרונות מקצועיים במחירים שמתאימים לכל תקציב — הכל במקום אחד!
 
 כל הציוד שצריך לאירוע אחד מושלם — GG.SETUP
@@ -1189,7 +1189,7 @@ GG.SETUP
 
 ## הסיפור מאחורי כל אירוע מוצלח — GG.SETUP
 
-URL: https://gg-setup-4afbe36d.zappy5.app/about
+URL: https://example.com/about
 Description: GG.SETUP נולדה מתוך אהבה לאירועים ותשוקה לפרטים הקטנים. הכירו את הצוות שהפך השכרת ציוד למסיבות במרכז לחוויה פשוטה, אמינה ומלאת השראה עבור כל לקוח.
 
 הסיפור מאחורי כל אירוע מוצלח — GG.SETUP
@@ -1714,7 +1714,7 @@ GG.SETUP מביאה לכל אירוע רמת השכרת ציוד לאירועי�
 
 ## בואו נתכנן יחד את האירוע שלכם — GG.SETUP
 
-URL: https://gg-setup-4afbe36d.zappy5.app/contact
+URL: https://example.com/contact
 Description: רוצים לקבל הצעת מחיר להשכרת ציוד לחתונה, מסיבה או אירוע עסקי? צרו קשר עם צוות GG.SETUP עכשיו ונחזור אליכם במהירות עם פתרון מותאם אישית בדיוק לצרכים שלכם.
 
 בואו נתכנן יחד את האירוע שלכם — GG.SETUP
@@ -2280,7 +2280,7 @@ GG.SETUP פועלת לאורך כל מרכז הארץ ומגיעה לכל סוג
 
 ## מדיניות פרטיות
 
-URL: https://gg-setup-4afbe36d.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2525,7 +2525,7 @@ GG.SETUP ("החברה", "אנו", "שלנו") מחויבת להגן על פרט�
 
 ## הצהרת נגישות
 
-URL: https://gg-setup-4afbe36d.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2779,7 +2779,7 @@ GG.SETUP מחויבת להנגיש את השירותים לכלל הציבור. 
 
 ## תנאי שימוש
 
-URL: https://gg-setup-4afbe36d.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
